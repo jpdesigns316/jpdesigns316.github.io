@@ -348,7 +348,7 @@ var project = {
       },
       {
           "title" : "Multi-User Blog",
-          "url" : "http://maze-1335.appspot.com/",
+          "url" : "http://maze-1335.appspot.com/blog",
           "dates" : "June 2016 - June 2016",
           "points" :
           [
