@@ -323,14 +323,26 @@ var project = {
   "projects":
   [
       {
-          "title" : "Programming by Reading",
+          "title" : "Resume using JavaScript",
           "url" : "",
-          "dates" : "June 2016 - August 2016",
+          "dates" : "June 2016 - <em>In Progress</em>",
           "points" :
           [
-            "Designed a book cata log that utilized the functions of the Python modules SQLalcehemy and Flask",
-            "Created responsive temlates the access on mobile and desktop platforms.",
-            "Put into effect the methods of the OAth2 module to allow login from thrid-party sites."
+            "• Used JSON to create template for the infromation that is added to the resume.",
+            "• Created dropdown menus to display course information taken that is vital to my chosen field.",
+            ""
+          ],
+          "image" : ""
+      },
+      {
+          "title" : "Programming by Reading",
+          "url" : "",
+          "dates" : "June 2016 - <em>In Progress</em>",
+          "points" :
+          [
+            "• Designed a book cata log that utilized the functions of the Python modules SQLalcehemy and Flask",
+            "• Created responsive temlates the access on mobile and desktop platforms.",
+            "• Put into effect the methods of the OAth2 module to allow login from thrid-party sites."
           ],
           "image" : ""
       },
