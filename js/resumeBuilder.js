@@ -10,7 +10,7 @@ var bio =
         "twitter": "@jpdesigns316",
         "location": "Las Vegas, NV"
     },
-    "welcomeMessage": "I'm highly detail oriented, and coding and designing is fun!",
+    "welcomeMessage": "I'm highly detail oriented, and I love coding and designing!",
     "skills":["CSS", "HTML", "Python", "Warcraft", "Java", "Javascript"],
     "bioPic":"images/jonathan.jpg",
     display:function()
@@ -340,9 +340,9 @@ var project = {
           "dates" : "June 2016 - June 2016",
           "points" :
           [
-            "Designed and implemented a simple blog using Google App Engine and Python 2.7.",
-            "Ceated dual-error checking for increased security.",
-            "Increased scalability by creating an object-oriented structure for easy modification."
+            "• Designed and implemented a simple blog using Google App Engine and Python 2.7.",
+            "• Ceated dual-error checking for increased security.",
+            "• Increased scalability by creating an object-oriented structure for easy modification."
           ],
           "image" : ""
       },
@@ -352,9 +352,9 @@ var project = {
           "dates" : "June 2016 - June 2016",
           "points" :
           [
-            "Designed a page based on a mock-up.",
-            "Using Python 2.7, utilized data modals to display information about projects and to make interactive.",
-            "Using graphic design principles, cerated a color palette of colors for the website based on the logo."
+            "• Designed a page based on a mock-up.",
+            "• Using Python 2.7, utilized data modals to display information about projects and to make interactive.",
+            "• Using graphic design principles, cerated a color palette of colors for the website based on the logo."
           ],
           "image" : ""
       },
@@ -364,9 +364,9 @@ var project = {
           "dates" : "June 2016 - June 2016",
           "points" :
           [
-            "Designed and wrtitten in Python 2.7 to implemented code which showed trailers to selected movies.",
-            "Created a psuedo-database of Python objects that contained data about the movies.",
-            "Used string manipulation methods to implement the data into a template."
+            "• Designed and wrtitten in Python 2.7 to implemented code which showed trailers to selected movies.",
+            "• Created a psuedo-database of Python objects that contained data about the movies.",
+            "• Used string manipulation methods to implement the data into a template."
           ],
           "image" : ""
       },
@@ -376,9 +376,9 @@ var project = {
           "dates" : "June 2016 - June 2016",
           "points" :
           [
-            "Designed and implemented a simple blog using Google App Engine and Python 2.7.",
-            "Ceated dual-error checking for increased security.",
-            "Increased scalability by creating an object-oriented structure for easy modification."
+            "• Designed and implemented a simple blog using Google App Engine and Python 2.7.",
+            "• Created dual-error checking for increased security.",
+            "• Increased scalability by creating an object-oriented structure for easy modification."
           ],
           "image" : ""
       }
@@ -406,7 +406,11 @@ var project = {
 
 
 
-var des = "<p>I have taught myself many programming languages, and when I could not do things I sought out the answers to do them. I wrtie beautifully readable code, and take effort in writting the documentation for it. I have taken graphical design classes so I have a keen eye for design and detail. When creating a color palette for a design I take into effort finding the colors which go together, and when designing for the web use unsafe web colors.</p><p>My hobbies include playing World of Warcraft, and playing poker</p>";
+var des = "<div class='summary'><p>Coding is something that comes easy for me to do. The two programming languages \
+that I have a strong proficentcy in is Python and Java. I like to see how much I can improve code in. I am an avid learner \
+and push myself hard to continue to learn new things about the languages that I know. </p>\
+<p>I have an attention to detail and always want to see different ways I can improve code. This does not extend \
+to just writing code, but to designing thing; both digitally and through the use of wireframes.</p></div>" ;
 
 var summary = {
   "description": des,
